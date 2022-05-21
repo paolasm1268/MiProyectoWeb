@@ -1,2 +1,2 @@
-## archivo readme de mi proyecto web
-paola
+## archivo readme de mi proyecto web 
+paola sixtos 
